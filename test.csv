@@ -1,0 +1,331 @@
+class_name,question,id
+CANCEL,i do not know how i can see the cancellation charge,3329
+SUBSCRIPTION,help me cancelling my corporate newsletter subscription,17714
+REFUND,"I paid {{Currency Symbol}}{{Refund Amount}} for this purchase, how can I get a rebate?",16152
+CANCEL,i want assistance checking the termination penalties,3648
+REFUND,i expect a rebate of {{Currency Symbol}}{{Refund Amount}} was it processed,26431
+SUBSCRIPTION,help me receive your newsletter,17272
+CANCEL,ened assistance to see the termination penalties,3535
+PAYMENT,can I check the available payment options ?,5169
+SHIPPING,the deliuvery address changed,2840
+CANCEL,will you show me the early exit charges?,3249
+CANCEL,how to see the early exit charge?,3031
+ACCOUNT,help me use the {{Account Type}} profile,24360
+CANCEL,how to check the cancellation charge,3791
+CONTACT,help getting in touch with customer support,8161
+FEEDBACK,where do i file an customer claim against ur business,7151
+REFUND,I need help to see if there are any updates on my rebate,25983
+SUBSCRIPTION,how can I sign up to your corporate nnewsletter?,17005
+DELIVERY,help seeing how long it takes for my shipment to arrive,13577
+ORDER,I have got to cancel purchase {{Order Number}},8
+SUBSCRIPTION,I want assistance to receive your company newsletter,17801
+CANCEL,I have got to check the early exit fee,3892
+CANCEL,where could I check the goddamn cancellation charge?,3432
+ACCOUNT,how to use tye {{Account Type}} account?,24752
+ORDER,I do not know how to order something,19278
+SHIPPING,I want help to set up my delivery address,22885
+DELIVERY,want help checking when will my product arrive,13175
+REFUND,where do I get rebates of my money?,16538
+CONTACT,i need assistance to talk with someone,8967
+SUBSCRIPTION,want help receiving your company newsletter,17053
+REFUND,in what cases can I request reimbursements?,6402
+DELIVERY,I am trying to check how soon can I expect my parcel,13081
+CANCEL,help me to check the early exit charge,3679
+DELIVERY,I have to see when will my article arrive,13760
+DELIVERY,I need assistance to check when will my package arrive,13528
+ORDER,where to see order {{Order Number}} status?,25653
+PAYMENT,what are ur available payment methods,5157
+REFUND,I want help to ask for my money back,16445
+FEEDBACK,help me submitting some feedback for your products,22230
+ACCOUNT,I have a question about opening freemium accounts,10146
+SHIPPING,there is an issue entering my delivery address,23832
+PAYMENT,how do i check what goddamn payment methods are lalowed,5300
+CANCEL,I need help seeing the early termination fee,3266
+ACCOUNT,i dont know what to do to notify of an issue with a sign-up,21585
+SHIPPING,is it possible to set up my shipping address?,23381
+FEEDBACK,"my experience with you was awful, file a reclamation",6984
+DELIVERY,how to see when will my purchase arrive?,13822
+CONTACT,I don't know what I need to do to contact an operator,9060
+PAYMENT,how can I check the payment modalities?,5425
+FEEDBACK,file consumer reclamation against ur company,7495
+ORDER,I ma trying to see the status of order {{Order Number}},25762
+ACCOUNT,i want a {{Account Category}} account for my dad,10237
+SUBSCRIPTION,can I cancel my corporate newsletter subscription?,16949
+REFUND,can you help me check my restitution status?,26602
+PAYMENT,I don't know how to report an issue with online payments,18324
+PAYMENT,where do i list the accepted payment modalities,5663
+SHIPPING,i need assistance entering a secondary delivery address,23397
+PAYMENT,can you help me notifying of troubles with online payment?,18169
+SHIPPING,want help to submit another shipping address,23793
+INVOICE,check invoice from {{Person Name}},4841
+ACCOUNT,editing information on {{Account Category}} account,14182
+SHIPPING,"the delivery address changed, could I change it?",2921
+INVOICE,i dont know what to do  to download bill #85632,15608
+ACCOUNT,can I notify of problems with signup?,21136
+ORDER,help acquiring some items,19758
+ORDER,i have to see the damn ETA of my delivery helpme,25589
+SHIPPING,i need help entering another delivery address,23492
+FEEDBACK,i call to send my feedback about ur services,22638
+ORDER,can uhelp me cancelliung order {{Order Number}},862
+FEEDBACK,I am trying to make a customer complaint,7490
+CANCEL,how can i ese the cancellation penalties,3278
+SHIPPING,I don't know what I have to do to update my delivery address,2623
+REFUND,want help checking in wht situations can i request refunds,6213
+CONTACT,I don't know what to do to talk to customer service,8660
+REFUND,help checking in what cases can i request to be refunded,6461
+FEEDBACK,i need assistance to leave a review about ur company,22158
+INVOICE,I do not know how to look for the bill from {{Person Name}},4017
+SUBSCRIPTION,I have to sign up to your corporate newsletter,17486
+CONTACT,I want help to talk to a live agent,8947
+CANCEL,need assistance seeingg the termination charges,3258
+SUBSCRIPTION,I have to unsubscribe from the company newsletter,17116
+SUBSCRIPTION,information about receiving your company newsletter,17473
+CANCEL,I want help to see the early exit fees,3766
+ACCOUNT,is it possible to inform of an error with registrations,21551
+ORDER,change purchase {{Order Number}},1159
+CONTACT,I try to see at what time customer support available is,8126
+SUBSCRIPTION,I need help to subscribe to your newsletter,17359
+CONTACT,where do i cherck at what time i can call customer service,8441
+CONTACT,wanna see what hours cdustomer support available is,8334
+REFUND,help to get my money back,16631
+CONTACT,I try to speak with an operator,9259
+CONTACT,can ya help me contactsomebody,8918
+SUBSCRIPTION,"I have got to unsubscribe to your newsletter, help me",17675
+ACCOUNT,editing info on pro account,14801
+DELIVERY,do you shp to {{Delivery City}}?,12794
+CANCEL,i need assistance to check the cancellation fee,2999
+SUBSCRIPTION,where to cancel the subscription to ur company newsletter,17132
+ACCOUNT,I need assistance changing to the {{Account Category}} account,24515
+SUBSCRIPTION,i cannot unsubscribe from urnewsletter,16983
+SHIPPING,I need to edit the delivery  address,2478
+CONTACT,I don't know how I can cotnact somebody,8943
+REFUND,help me seeing if there are any news on my reimbursement,26414
+CANCEL,assistance checking the early exit fee,3703
+CONTACT,can you help me talk to an operator?,9450
+DELIVERY,how can I get information about damn delivery  period?,13317
+SUBSCRIPTION,I am trying to sign up to the company newsletter,17069
+INVOICE,I do not know what I need to do to download bill #37777,15564
+SHIPPING,there are issues trying to edit the shipping address,2293
+INVOICE,i want assistance to downlolad my bill #85632,15187
+CANCEL,help me to check the termination charges,3559
+ORDER,checking order {{Order Number}} status,25559
+PAYMENT,can I see what payment methods are available?,5371
+SUBSCRIPTION,help me to unsubscribe to your newsletter,17489
+ORDER,how to add an article to purchase {{Order Number}}?,1650
+PAYMENT,how to repoft troubles with online payment,18072
+CONTACT,talk to agent,9250
+REFUND,I'm waiting for a reimbursement of 1200dollars,25957
+CANCEL,"I have to check the fucking withdrawal charges, I need help",3054
+CANCEL,I want help seeing the cancellation charge,3327
+CANCEL,can I see the withdrawal charges?,3323
+REFUND,I am trying to see in which cases can I ask to be refunded,6041
+SHIPPING,where to update the shipping address?,2337
+ACCOUNT,assistance using the freemium profile,24635
+SUBSCRIPTION,need to receive the damn newsletter will uhelp me,17718
+ACCOUNT,help me open a {{Account Category}} account for my dad,10478
+CANCEL,i want help to see the termination charges,3583
+SHIPPING,need to submit a new shipping adress,23618
+ACCOUNT,"I would like to close my standard account, can you help me?",11398
+ORDER,assistance to update purchase {{Order Number}},1876
+CONTACT,can I contact an assistant?,9760
+CONTACT,I don't know how to contact an agent,9346
+ORDER,"I can't pay for this item, cancel order {{Order Number}}",410
+ORDER,can you help me to earn several products?,19597
+INVOICE,ido not know what i need to do to get the invoice #12588,15148
+PAYMENT,can you tell me what payment options are available?,5155
+REFUND,I am trying to check in what cases can I request a refund,6367
+CONTACT,i want  assistance speaking with an assistant,9844
+INVOICE,is it possible to locate my damn bill from {{Person Name}}?,4912
+PAYMENT,i dont know how to check  ur allowed payment modalities,5912
+DELIVERY,I have got to check how soon can I expect the package,13565
+SHIPPING,I do not know how to enter the secondary shipping address,23020
+DELIVERY,is it possible to order from {{Delivery Country}}?,12161
+CANCEL,assistance checking the fucking early exit penalties,3203
+INVOICE,"I want to locate the invoice #85632, I need assistance",4445
+CONTACT,I would like to speak to a live agent,9192
+PAYMENT,how to see your allowed payment methods?,5042
+FEEDBACK,help me tro leave feedback for your services,22515
+ACCOUNT,i have got to retrieve the pwd of my user account,20570
+ACCOUNT,help me to open a {{Account Category}} account for my daughter,10538
+ORDER,i dont wat order {{Order Number}} cancel it,831
+SUBSCRIPTION,i dont know how to cancel my subscription to the newsletter,17293
+ACCOUNT,I need assistance to open a {{Account Type}} account for my dad,10448
+ORDER,want help deleting something from order {{Order Number}},1116
+DELIVERY,can I check how long it takes for the product to arrive?,13878
+DELIVERY,shiping to {{Delivery City}},12229
+REFUND,"I have got to see your money back policy, how can I do it?",5931
+ACCOUNT,i need assistance with creating a freemium acount,10070
+DELIVERY,"I have got to see how long the shipment takes, I need help",13192
+INVOICE,wanna look for bill #85632,4437
+ACCOUNT,i do not know what to do to create a gold account,10725
+ORDER,"I want to order several articles, could you help me?",19391
+ACCOUNT,correcting details on freemium account,14430
+SUBSCRIPTION,how can i cancel my subscription to ur corporate newsletter,17187
+ACCOUNT,I need help creating a premium account for my daughter,9944
+ORDER,I'm trying to check the eta of purchase {{Order Number}},25547
+FEEDBACK,"I need to leave my feedback, can you help me?",22337
+SHIPPING,how do I enter a secondary delivery address?,23129
+CONTACT,help to talk to customer service,8658
+INVOICE,I don't know how I can download the bills from {{Person Name}},15076
+PAYMENT,help me seeing your accepted payment methods,5588
+SHIPPING,I want help entering the delivery address,23703
+CONTACT,"I want to talk with fucking customer support, help me",8688
+PAYMENT,I want to check what payment options you accept,5902
+SHIPPING,I don't know how I can  submit a new shipping address,23111
+ORDER,help me to buy some products,19344
+ORDER,how can i purchase some of ur product,19025
+SHIPPING,can uhelp me to set my secondary delivery addressd up,23033
+CANCEL,i do not know how to see the withdrawal penalties,3818
+SHIPPING,i want information about a shipping address modification,2887
+PAYMENT,I need assistance to check your available payment methods,5149
+FEEDBACK,I want assistance to leave some feedback for your products,22856
+DELIVERY,I am trying to check how soon can I expect the damn shipment,13221
+REFUND,I am waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},26512
+FEEDBACK,i want assistancesubmitting my feedback for a product,21918
+FEEDBACK,help me to file a customer claim against your business,7763
+CANCEL,i have to check the termination fees,3215
+SUBSCRIPTION,how can i find information about my newsletter subscription,17842
+INVOICE,I do not know how I can download the bill #12588,15589
+FEEDBACK,how to send some feedback about your company?,22426
+REFUND,I can't see if there is anything new on the compensation,26561
+ACCOUNT,pudate {{Account Category}} account,14180
+CANCEL,"I cannot find the withdrawal penalty, could you help me?",3199
+INVOICE,can you help me to take a quick look at my bill #85632?,4501
+SHIPPING,could I set up the shipping address?,23818
+PAYMENT,i cannot make payments help to report an error,18376
+INVOICE,I do not know what to do to download my invoice #37777,15793
+DELIVERY,show the available methods for shipment,12748
+SHIPPING,information about modifying the delivery address,2422
+SHIPPING,can ya help me to modify the delivery address,2701
+PAYMENT,tell accepted payment options,5675
+CANCEL,what do I need to do to check the termination charge?,3181
+PAYMENT,I have got to check what payment methods are available,5633
+FEEDBACK,what do I have to do to leave a review about a servie?,21912
+ACCOUNT,mldifying {{Account Type}} account,14560
+PAYMENT,I need assistance to inform of a payment issue,18385
+PAYMENT,want assistance reporting troubles with payment,18166
+FEEDBACK,can i lodge a customer claim againmst ur company,7308
+DELIVERY,how do I see how long it takes for my damn parcel to arrive?,13609
+REFUND,want help to see the restitution status,26012
+SUBSCRIPTION,I cannot see the status of my newsletter subscription,16955
+SUBSCRIPTION,I want help unsubscribing from the company newsletter,17277
+SHIPPING,there is a problem updating my shipping address,2427
+CANCEL,I do not know what I need to do to see the early exit charge,3655
+PAYMENT,need assistance seeing ur available payment methods,5499
+INVOICE,wanna download invoice #85632,15332
+FEEDBACK,do you have a way to submit a review for your services ?,22713
+PAYMENT,i want help reporting an issue with online payments,18712
+ACCOUNT,modify information on {{Account Category}} account,14734
+INVOICE,assistance giving a quick look at my bill from {{Person Name}},4038
+ACCOUNT,"I cannot remember the key of my profile, help me recover it",20840
+ACCOUNT,changing information on {{Account Type}} account,14317
+INVOICE,find bil #12588,3987
+INVOICE,"I cannot find bill #12588, mail it to me",15371
+ORDER,i want assistance cancelling order {{Order Number}},270
+CONTACT,I want help to talk with customer assistance,8428
+DELIVERY,help me check what methods for delivery you offer,12437
+CONTACT,I need assistance to talk with an operator,9207
+SHIPPING,want help modifying my address,2205
+PAYMENT,can you help me to solve issues with online payment?,18288
+REFUND,help me to request a rebate of my money,16743
+PAYMENT,I don't know what to do to notify of a payment error,17935
+ORDER,I have missed some goddamn articles in purchase {{Order Number}},1674
+INVOICE,I don't know what I ahve to do to see my bill from {{Person Name}},4301
+CONTACT,i want help to get in touch with customer service,8721
+ORDER,can I swap some items of purchase {{Order Number}}?,1509
+CANCEL,can I check the early termination fee?,3775
+INVOICE,what do I need to do to get my goddamn bill from {{Person Name}}?,15843
+CONTACT,how can i speak with a person,9406
+CONTACT,can ya help me contact an operator,9328
+FEEDBACK,lodging claim,7296
+FEEDBACK,wanna send my bloody feedback for ur products can ya help me,22154
+SUBSCRIPTION,help me to sign up to the company newsletter,17681
+CONTACT,is it possible to talk to customer assistance ?,8507
+SHIPPING,I don't know how I could set up my shipping address,23563
+ACCOUNT,I need help to open a {{Account Category}} account for my daughter,10618
+DELIVERY,is it possible to order from {{Delivery Country}}?,12255
+DELIVERY,where doi check how soon can i expect my order,13674
+INVOICE,i need help looking for my invoice #85632,4767
+ORDER,i have a question about cancelling order {{Order Number}},903
+SHIPPING,I need to update the address,2434
+CANCEL,"I need to see the cancellation fee, can you help me?",3398
+CONTACT,I try to see what hours I can reach customer assistance,8466
+FEEDBACK,is it possible to lodge a complaint,7330
+ORDER,need assistance acquiring an item,19770
+SHIPPING,where do I enter the secondary shipping address?,22909
+SHIPPING,where can I change the delivery address?,2556
+FEEDBACK,can you help me tyo send my feedback for a service?,22438
+ORDER,where can I see order {{Order Number}} status?,25867
+SHIPPING,I have problems entering a different shipping address,23303
+CONTACT,i  dont know what i need to do to speak with a live agent,9525
+PAYMENT,"I need to check the available payment methods, help me",5216
+CANCEL,I need help  checking the withdrawal charges,3176
+SUBSCRIPTION,I do not know how I can sign up to the goddamn newsletter,17683
+SUBSCRIPTION,would it be possible to sign up to the company newsletter?,17363
+CANCEL,want help seeing thecancellation fees,3312
+SHIPPING,sumbitting new shipping address,23833
+CANCEL,could you help me check hte cancellation penalties?,3860
+DELIVERY,wanna see what delivery options are there i need help,12334
+ORDER,need assistance acquiring some items,19535
+PAYMENT,how can I check what payment methods are allowed?,5501
+CONTACT,help seeing what hours customer assistance available is,8898
+DELIVERY,I want assistance to check how soon can I expect the package,13227
+ORDER,purchase {{Order Number}} status,25054
+DELIVERY,I want assistance to check the methods for delivery,12466
+REFUND,I expect a rebate of {{Refund Amount}} dollars,25892
+PAYMENT,Iam trying to notify of troubles with online payment,18319
+SUBSCRIPTION,I want help cancelling my subscription to your newsletter,17246
+PAYMENT,need assistance solving an issue with online paymenst,18569
+FEEDBACK,"the experience with you was awful, file a customer complaint",7469
+ACCOUNT,"I forgot the PIN of my user, I need help to retrieve it",20207
+ORDER,I nee assistance to cancel purchase {{Order Number}},594
+INVOICE,I want to download the damn invoices from {{Person Name}},14932
+ORDER,"I would like to acquire something, how to do it?",19267
+FEEDBACK,making customer complaint,7624
+DELIVERY,help seeing when will my purchase arrive,13333
+REFUND,I donot know what to do to demand a refund,16582
+PAYMENT,how could I inform of errors with payment?,17922
+CANCEL,I want assistance seeing the early termination fee,3717
+SHIPPING,"I would like to enter a new delivery address, help me",23289
+DELIVERY,can you help me seeing when my article is going to arrive?,13021
+SUBSCRIPTION,can you help me unsubscribe to the newsletter?,16973
+CONTACT,chatting with humnan agent,9347
+SUBSCRIPTION,asxsistance receiving your newsletter,17105
+CANCEL,can you show me the early termination fee?,3604
+ORDER,can uhelp me cancelling purchase {{Order Number}},812
+PAYMENT,I want assistance checking the payment modalities,5488
+PAYMENT,where do I notify of a payment problem?,18242
+SUBSCRIPTION,help cancelling my corporate newslettersubscription,17223
+REFUND,I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},25896
+INVOICE,how to locate my bill #12588?,3967
+FEEDBACK,i call to lodge a customer complaint against ur organization,7334
+PAYMENT,i have got to list ur accepted payment options can uhelp me,5285
+SUBSCRIPTION,help to subscribe to ur company newsletter,17731
+SHIPPING,"I would like to enter another shipping address, help me",23824
+DELIVERY,i need assistance to see when will my product arrive,13759
+REFUND,how to track the reimbursement?,26752
+SUBSCRIPTION,i want assistance cancelling the newsletter subscription,17094
+ORDER,updating order {{Order Number}},1044
+REFUND,"I paid {{Currency Symbol}}{{Refund Amount}} for this item, help me receiving a compensation",16122
+DELIVERY,can i check how soon can i expect my delivery,13203
+SHIPPING,"I have got to submit a shipping address, help me",23653
+SUBSCRIPTION,can ya tell me about signing up to ur newsletter,17782
+DELIVERY,i dont know how i can see how soon can i expect my order,13497
+INVOICE,I don't know what to do to downlod bill #12588,15385
+REFUND,help me to check the status of the restitution,26344
+CANCEL,can you help me to check the early exit fees?,3270
+SHIPPING,I am trying to enter my shipping address,23073
+DELIVERY,could oyu tell me about fucking shipping periods?,13248
+DELIVERY,where do i check how soon can i expect the delivery,13688
+SUBSCRIPTION,"I want to receive your company newsletter , how do I do it?",17191
+ACCOUNT,how to use the {{Account Category}} account,24057
+ACCOUNT,modify details on platinum account,14220
+DELIVERY,how do I see what shipping methods you offer?,12156
+FEEDBACK,can you help me write a review for a service?,22692
+FEEDBACK,can uhelp me leave a damn review for a service,22171
+ACCOUNT,new bloody {{Account Type}} cacount,10333
+CONTACT,"I want to speak with customer service, helpme",8258
+INVOICE,get invoice #85632,15244
+FEEDBACK,help me filing a complaint,7352
+DELIVERY,want help seeing how long it takes for my shipment to arrive,13018
+CANCEL,I need help to check the early termination fee,3262
