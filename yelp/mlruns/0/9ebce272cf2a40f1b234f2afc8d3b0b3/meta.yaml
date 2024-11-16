@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sagemaker-user/classification-with-llm/yelp/mlruns/0/9ebce272cf2a40f1b234f2afc8d3b0b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ebce272cf2a40f1b234f2afc8d3b0b3
+run_name: sequence_classification
+run_uuid: 9ebce272cf2a40f1b234f2afc8d3b0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731618112742
+status: 1
+tags: []
+user_id: sagemaker-user
