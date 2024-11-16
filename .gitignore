@@ -1,3 +1,6 @@
 *.jsonl
 mlruns/
 sequence_classification/
+results/
+logs/
+bert/
