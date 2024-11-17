@@ -4,3 +4,7 @@ sequence_classification/
 results/
 logs/
 bert/
+train.csv
+test.csv
+val.csv
+checkpoints/
