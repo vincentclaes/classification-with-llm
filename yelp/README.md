@@ -6,8 +6,8 @@
 | GPT-4O-Mini System Prompt Optimization | 0.62                     |
 | GPT-4O-Mini Few-Shot Examples          | 0.64                     |
 | GPT-4O-Mini Fine-Tuned                 | 0.68                     |
-| BERT Zero-Shot                         | 0.19                     |
-| BERT Fine-Tuned                        | 0.30                     |
+| BERT Zero-Shot                         | 0.17                     |
+| BERT Fine-Tuned                        | 0.42                     |
 | Llama-3.2-1B Fine-Tuned                | 0.42                     |
 | Llama-3.1-8B Fine-Tuned                | 0.46                     |
 | Llama-3.2-3B Fine-Tuned                | 0.52                     |
