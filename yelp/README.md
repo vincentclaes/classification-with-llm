@@ -16,7 +16,7 @@
 
 ## Dataset
 
-We use the Yelp dataset: [bitext/Bitext-customer-support-llm-chatbot-training-dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
+We use the Yelp dataset: [yelp/yelp_review_full](https://huggingface.co/datasets/Yelp/yelp_review_full)
 
 - Notebook: [00-prepare-dataset.ipynb](00-prepare-dataset.ipynb)
 
